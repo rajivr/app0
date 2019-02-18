@@ -1,0 +1,7 @@
+[package]
+name = "tock"
+version = "0.1.0"
+authors = ["Rajiv Ranganath <rajiv.ranganath@atihita.com>"]
+edition = "2018"
+
+[dependencies]
